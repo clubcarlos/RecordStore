@@ -21,6 +21,9 @@ public class InventoryController {
 	public final int DONATED = 5;
 	public final int RETURNED_TO_CONSIGNOR = 6;
 	public final int PAID_CONSIGNOR = 7;
+	//used to determine what employee is
+	public final int CLERK = 8;
+	public final int MANAGER = 9;
 
 	public static void main(String[] args) {
 		//Add a shutdown hook.
