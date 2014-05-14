@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue May 13 04:48:33 CDT 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0145-f4fb-cb78-000004f654b0 
+on database directory /Users/carlos/Documents/workspace/CARLOSCRECORDSTORE/StoreDB with class loader null 
+Loaded from null
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_65-b14-462-11M4609
+user.dir=/Users/carlos/Documents/workspace/CARLOSCRECORDSTORE
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.9.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
